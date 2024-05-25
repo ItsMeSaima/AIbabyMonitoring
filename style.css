@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Gurmukhi:wght@100..800&display=swap');
+body {
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 38px;
+width: 90%;
+margin: 0px;
+background-color: white;
+color: rgb(131, 195, 238);
+border-radius: 50px;
+font-family:oooh baby;
+font-weight: bolder;
+}
+
+.heading:hover
+{
+font-size: 38px;
+width: 90%;
+margin: 0px;
+background-color: white;
+color: rgb(131, 195, 238);
+border-radius: 50px;
+font-family:oooh baby;
+font-weight: bolder;
+}
+
+#status, #check
+{
+font-size: 18px;
+font-family: anek gurmukhi;
+border-radius:3px;
+border-style: outset;
+}
+
+#status{
+    background:rgb(122, 192, 240);
+    border-color: aliceblue;
+}
+#check{
+    background:aliceblue;
+    border-color: rgb(122, 192, 240);
+    color: rgb(99, 155, 192);
+}
+
+canvas{
+    box-shadow: 10px 10px 10px rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+span{
+    color: rgb(99, 155, 192);
+    font-size: 18px;
+    font-family: Truculenta;
+}
